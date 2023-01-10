@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi here is icydresden
+
+![icydresden's GitHub stats](https://github-readme-stats.vercel.app/api?username=icydresden&show_icons=true&theme=tokyonight)
 
 <!--
 **icydresden/icydresden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
