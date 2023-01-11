@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Hi,IcyDresden+is +here.+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=1200&duration=6969&lines=Hi,+here+is+IcyDresden.+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-663399?style=for-the-badge&link=https://github.com/icydresden/icydresden)](https://icydresden.github.io/)
 <!--
