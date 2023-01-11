@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/icydresden/count.svg)
 
+<!--
 ## Top repositories
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icydresden&repo=wavedash&theme=github_dark)](https://github.com/kevinfengcs88/wavedash)
-
+-->
 
 
 ## Languages and Tools:
