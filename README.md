@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 [<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
 [<img height=40 src="https://img.shields.io/badge/Zen 2-Ryzen%203700X-%23ED1C24?style=for-the-badge&logo=AMD">](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x)</br>
 -->
+
+[![](https://raw.githubusercontent.com/icydresden/icydresden/main/out/github-contribution-grid-snake.svg)](https://github.com/icydresden)
+[![](https://raw.githubusercontent.com/icydresden/icydresden/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/icydresden) [![](https://raw.githubusercontent.com/icydresden/icydresden/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/icydresden)
